@@ -3,12 +3,16 @@ This project classifies handwritten digits using machine learning models. Models
 
 ## Datasets
 MNIST: Used for training and testing.
+
 EMNIST, USPS, SVHN: Used for testing generalization.
 
 ### For manual download
 MNIST: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
 EMNIST: https://www.kaggle.com/datasets/crawford/emnist
+
 USPS: https://www.kaggle.com/datasets/bistaumanga/usps-dataset
+
 SVHN: http://ufldl.stanford.edu/housenumbers/
 
 
@@ -17,7 +21,7 @@ SVHN: http://ufldl.stanford.edu/housenumbers/
 A web app built using Streamlit allows users to upload or draw digits for prediction. The K-Nearest Neighbors (KNN) model, which performed the best and trained with a merged datasetis used for predictions.
 
 ## How to Run
-- DOwnlaod required datasets (EMNIST in csv format and SVHN, MNIST and USPS download is coded)
+- Downlaod required datasets (EMNIST in csv format and SVHN, MNIST and USPS download is coded)
 - Install the required dependencies using requirements.txt.
 - Run "DigitClassifier.ipynb" for model training (if models have not been trained yet).
 - Run "WebApp.ipynb" (if first time executing it).
