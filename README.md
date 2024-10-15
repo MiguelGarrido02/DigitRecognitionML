@@ -1,5 +1,5 @@
 # DigitRecognitionML
-This project classifies handwritten digits using machine learning models. Models were trained on the MNIST dataset and tested on other datasets then a model was trained on an merged dataset. Detailed information on model training, testing, and evaluation can be found in the Digit Recognizer.pdf.
+This project classifies handwritten digits using machine learning models. Models were trained on the MNIST dataset and tested on other datasets then a model was trained on an merged dataset. Detailed information on model training, testing, and evaluation can be found in the [Project Report (PDF)](./Digit%20Recognizer.pdf).
 
 ## Datasets
 MNIST: Used for training and testing.
