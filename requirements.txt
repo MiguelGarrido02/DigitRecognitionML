@@ -1,0 +1,14 @@
+kagglehub
+idx2numpy
+scikit-learn
+matplotlib
+numpy
+pandas
+seaborn
+h5py
+joblib
+scipy
+scikit-image
+tensorflow-datasets
+streamlit
+
